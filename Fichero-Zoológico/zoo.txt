@@ -1,0 +1,5 @@
+domestico|23|190|65|11|laika|perro||true|guau|antonio
+salvaje|11|215|130|9|leoncio|leon|100||||
+domestico|21|110|61|21|lua|perro||true|guauuu|Brais
+domestico|11|130|41|11|dopito|perro||true|guauuu|Jorge
+salvaje|11|215|130|9|Tigreton|Tigre de Bengala|100||||
