@@ -78,6 +78,9 @@ public class Main {
 	}
 	
 	public static void mostrarMenu() {
+		System.out.println("En este programa podras controlar las entradas y salidas de los animales en el zoo.");
+		System.out.println("Tambien tienes opcion de modificar los datos y ver una lista de ellas.");
+		
 		System.out.println("**********MI MENÚ************");
 		System.out.println("1- Alta de película: ");
 		System.out.println("2- Baja de película: ");
@@ -85,6 +88,7 @@ public class Main {
 		System.out.println("4- Listado de animales domésticos ordenados por edad: ");
 		System.out.println("5- Listado de animales salvajes y domésticos por peso: ");
 		System.out.println("6- Salir.");
+		
 		System.out.print("Elige una opción: ");
 		
 	}
